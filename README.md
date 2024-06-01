@@ -28,7 +28,7 @@ This project demonstrates a real-time stock market data streaming pipeline using
 
 2. Install Java (if not already installed):
     ```sh
-    sudo yum install java-1.8.0-openjdk
+    sudo yum install java-17-openjdk -y
     java -version
     ```
 
